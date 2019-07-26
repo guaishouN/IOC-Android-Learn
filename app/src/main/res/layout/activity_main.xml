@@ -27,6 +27,13 @@
             android:text="BUTTON00"
             android:layout_marginTop="20dp"
             android:textSize="25sp"/>
+        <Button
+            android:id="@+id/button_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BUTTON011"
+            android:layout_marginTop="20dp"
+            android:textSize="25sp"/>
     </LinearLayout>
 
 
